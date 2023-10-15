@@ -1,0 +1,5 @@
+These are the 10 random inputs I used for part 1 of the assignment.
+The solutions which my code generated to each of these
+are in the images output1 - output10 respectively
+
+53, 19, 59, 86, 23, 20, 41, 11, 29, 57
