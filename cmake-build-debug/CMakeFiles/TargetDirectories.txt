@@ -1,0 +1,3 @@
+D:/projects/comparch2/cmake-build-debug/CMakeFiles/comparch2.dir
+D:/projects/comparch2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/projects/comparch2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
